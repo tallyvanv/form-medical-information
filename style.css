@@ -1,0 +1,7 @@
+label #firstname, label #lastname {
+    display: block;
+}
+
+#day, #month, #year {
+    width: max-content;
+}
